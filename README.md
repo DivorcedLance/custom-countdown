@@ -1,4 +1,4 @@
-# Custom Countdown App ⏳
+# Custom Countdown App ⏰
 
 The Custom Countdown App allows users to create personalized countdown timers for any important event. Featuring a beautiful video background and a simple, user-friendly interface, this app helps you keep track of time until your special moments. It utilizes local storage to save your countdowns, ensuring that your events remain intact even if you close your browser.
 
