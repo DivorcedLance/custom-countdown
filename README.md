@@ -35,12 +35,4 @@ To use the app:
 2. Select the date of your event using the date picker.
 3. Click 'Submit' to start the countdown.
 4. Watch as the timer counts down to your special event.
-5. Your countdown details are saved locally, so you can close and reopen the browser without losing your setup.
-
-## Contributing 🤝
-
-Contributions to improve the app are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+5. Your countdown details are saved locally, so you can close and reopen the browser without losing your setup
